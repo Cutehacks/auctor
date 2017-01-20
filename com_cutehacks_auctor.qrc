@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/com/cutehacks/auctor">
+        <file>qmldir</file>
+        <file>OAuth2Session.qml</file>
+        <file>providers/OAuth2Provider.qml</file>
+        <file>providers/Github.qml</file>
+        <file>providers/Slack.qml</file>
+        <file>OAuthGrantType.qml</file>
+        <file>providers/Microsoft.qml</file>
+        <file>providers/Google.qml</file>
+        <file>providers/Facebook.qml</file>
+        <file>providers/Instagram.qml</file>
+        <file>providers/Reddit.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+
+module com.cutehacks.auctor
+
+OAuth2Session 1.0 OAuth2Session.qml
+singleton OAuthGrantType 1.0 OAuthGrantType.qml
+OAuth2Provider 1.0 providers/OAuth2Provider.qml
+
+singleton Github 1.0 providers/Github.qml
+singleton Slack 1.0 providers/Slack.qml
+singleton Google 1.0 providers/Google.qml
+singleton Facebook 1.0 providers/Facebook.qml
+singleton Microsoft 1.0 providers/Microsoft.qml
+singleton Instagram 1.0 providers/Instagram.qml
+singleton Reddit 1.0 providers/Reddit.qml
